@@ -1,0 +1,13 @@
+.my-table {
+    border: 3px solid #93d6f0;
+    background-color: #4ad2e4;
+}
+
+.my-table-tr th{
+    border: 1px solid #000;
+    background-color: #aeef83;
+}
+
+.my-table-tr td{
+    border: 1px solid #000;
+}
